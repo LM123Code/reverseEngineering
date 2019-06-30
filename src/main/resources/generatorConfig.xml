@@ -51,7 +51,7 @@
 
         <!--全部表参与逆向工程-->
         <!--以下example为false，表示不会生成example类，否则将自动生成example类-->
-        <table schema="" tableName="history"/>
+        <table schema="" tableName="%"/>
         <!--指定某些表参与逆向工程-->
         <!--<table tableName="user"-->
         <!--enableCountByExample="false"-->
